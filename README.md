@@ -1,6 +1,6 @@
 # wangzhongkuo.github.io
-## aaa
-## bbb
-# wtf
-## aaa
-## bbb
+```
+while(true){
+  Object object = new Object();
+}
+```
